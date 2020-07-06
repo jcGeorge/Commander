@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qU+lAN5USz5ID99cIl6lAOngxotHumA3gxWz0cx1qtD12oEiR1dTNSt8x1bX26O0v4d/0Jlc8A+Gsw3Y7QfoAA==",
+  "dgSpecHash": "e9hSzRlDQZcaRs852BfWjWXOHXlxZS5WhafHXGO7Yi7N1j0mREuEXi+fK2I6fQPNCCVYdVds8vX5e5hVEp/APA==",
   "success": true,
-  "projectFilePath": "C:\\xcode\\Commander\\Commander.csproj",
+  "projectFilePath": "C:\\wplayground\\Commander\\Commander.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
